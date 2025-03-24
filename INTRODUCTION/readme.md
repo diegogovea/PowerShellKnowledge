@@ -27,3 +27,12 @@
 - **Get-Help Get-ChildItem -Examples**: Provides examples of the requested command.
 - **Get-Help Get-ChildItem -Full**: Provides detailed information about each argument.
 
+    ```
+    Get-Help
+    Get-Help -Online [command]
+    Update-Help -Module Microsoft.PowerShell*
+    Get-Help Get-ChildItem -Detailed
+    Get-Help Get-ChildItem -Examples
+    Get-Help Get-ChildItem -Full
+  ```
+
