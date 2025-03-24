@@ -1,4 +1,4 @@
-# PowerShell Basic Commands - README
+# PowerShell Basic Commands
 
 Este documento contiene una lista de comandos básicos y avanzados de PowerShell, junto con una breve descripción y ejemplos de uso.
 
