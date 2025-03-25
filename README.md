@@ -1,23 +1,23 @@
-# Power Shell Knowledge
+# Conocimiento de PowerShell
 
-**PowerShellKnowledge** is a centralized repository dedicated to storing and organizing relevant data about PowerShell programming. This repository facilitates quick access to scripts, resources, and documentation, providing a solid foundation for efficient development and automation in PowerShell.
+**Conocimiento de PowerShell** es un repositorio centralizado dedicado a almacenar y organizar datos relevantes sobre la programación en PowerShell. Este repositorio facilita el acceso rápido a scripts, recursos y documentación, proporcionando una base sólida para el desarrollo y la automatización eficientes en PowerShell.
 
-## Table of Contents
+## Tabla de Contenidos
 
-- Introduction
-- Getting Started
-- Repository Structure
-- Contributing
-- License
-- Contact
+- Introducción
+- Comenzando
+- Estructura del Repositorio
+- Contribuyendo
+- Licencia
+- Contacto
 
-## Introduction
+## Introducción
 
-Welcome to **PowerShellKnowledge**! This repository is designed to be a comprehensive resource for PowerShell developers, containing scripts, examples, and documentation to help you with your PowerShell projects.
+¡Bienvenido a **Conocimiento de PowerShell**! Este repositorio está diseñado para ser un recurso integral para los desarrolladores de PowerShell, que contiene scripts, ejemplos y documentación para ayudarte con tus proyectos de PowerShell.
 
-## Getting Started
+## Comenzando
 
-To get started with this repository, clone it to your local machine using the following command:
+Para comenzar con este repositorio, clónalo en tu máquina local usando el siguiente comando:
 
 ```bash
 git clone https://github.com/yourusername/PowerShellKnowledge.git
