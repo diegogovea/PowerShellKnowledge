@@ -6,7 +6,7 @@
 
 - Introduction
 - Getting Started
-- Repository Structure
+- Repository Structure  
 - Contributing
 - License
 - Contact
